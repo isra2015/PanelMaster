@@ -1,0 +1,9 @@
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\bin\Debug\PanelRey.exe.config
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\bin\Debug\PanelRey.exe
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\bin\Debug\PanelRey.pdb
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.csprojResolveAssemblyReference.cache
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.Form1.resources
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.Properties.Resources.resources
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.csproj.GenerateResource.Cache
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.exe
+c:\users\6007567\documents\visual studio 2015\Projects\PanelRey\PanelRey\obj\Debug\PanelRey.pdb
